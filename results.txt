@@ -1,0 +1,114 @@
+Thread 1:
+
+Creating 15 threads.
+Thread 0 Created.
+Thread 0 (ID: 140304086148800): will sleep for 1 seconds.
+Thread 1 Created.
+Thread 1 (ID: 140304077756096): will sleep for 1 seconds.
+Thread 2 Created.
+Thread 2 (ID: 140304069363392): will sleep for 1 seconds.
+Thread 3 Created.
+Thread 3 (ID: 140304060970688): will sleep for 1 seconds.
+Thread 4 Created.
+Thread 5 Created.
+Thread 4 (ID: 140304052577984): will sleep for 7 seconds.
+Thread 5 (ID: 140304044185280): will sleep for 7 seconds.
+Thread 6 (ID: 140304035792576): will sleep for 2 seconds.
+Thread 6 Created.
+Thread 7 Created.
+Thread 7 (ID: 140304027399872): will sleep for 2 seconds.
+Thread 8 (ID: 140304019007168): will sleep for 6 seconds.
+Thread 8 Created.
+Thread 9 Created.
+Thread 9 (ID: 140304010614464): will sleep for 2 seconds.
+Thread 10 Created.
+Thread 10 (ID: 140304002221760): will sleep for 2 seconds.
+Thread 11 Created.
+Thread 11 (ID: 140303993829056): will sleep for 6 seconds.
+Thread 12 Created.
+Thread 12 (ID: 140303985436352): will sleep for 4 seconds.
+Thread 13 Created.
+Thread 13 (ID: 140303977043648): will sleep for 7 seconds.
+Thread 14 Created.
+Thread 14 (ID: 140303968650944): will sleep for 8 seconds.
+Thread 15 Created.
+Thread 15 (ID: 140303960258240): will sleep for 3 seconds.
+Thread 0 (ID: 140304086148800) sleeping.
+Thread 1 (ID: 140304077756096) sleeping.
+Thread 2 (ID: 140304069363392) sleeping.
+Thread 3 (ID: 140304060970688) sleeping.
+Thread 4 (ID: 140304052577984) sleeping.
+Thread 6 (ID: 140304035792576) sleeping.
+Thread 5 (ID: 140304044185280) sleeping.
+Thread 7 (ID: 140304027399872) sleeping.
+Thread 8 (ID: 140304019007168) sleeping.
+Thread 9 (ID: 140304010614464) sleeping.
+Thread 10 (ID: 140304002221760) sleeping.
+Thread 11 (ID: 140303993829056) sleeping.
+Thread 12 (ID: 140303985436352) sleeping.
+Thread 13 (ID: 140303977043648) sleeping.
+Thread 14 (ID: 140303968650944) sleeping.
+Thread 15 (ID: 140303960258240) sleeping.
+Thread 0 (ID: 140304086148800) exiting.
+Thread 1 (ID: 140304077756096) exiting.
+Thread 2 (ID: 140304069363392) exiting.
+Thread 3 (ID: 140304060970688) exiting.
+Thread 6 (ID: 140304035792576) exiting.
+Thread 7 (ID: 140304027399872) exiting.
+Thread 9 (ID: 140304010614464) exiting.
+Thread 10 (ID: 140304002221760) exiting.
+Thread 15 (ID: 140303960258240) exiting.
+Thread 12 (ID: 140303985436352) exiting.
+Thread 8 (ID: 140304019007168) exiting.
+Thread 11 (ID: 140303993829056) exiting.
+Thread 4 (ID: 140304052577984) exiting.
+Thread 5 (ID: 140304044185280) exiting.
+Thread 13 (ID: 140303977043648) exiting.
+Thread 14 (ID: 140303968650944) exiting.
+All Threads Have Exited.
+
+Thread 2:
+
+Creating 13 threads.
+Thread 0 Created.
+Thread 0 (ID: 140109231904448) will sleep for 8 seconds after creating Thread 1
+Thread 1 Created.
+Thread 1 (ID: 140109223511744) will sleep for 7 seconds after creating Thread 2
+Thread 2 Created.
+Thread 2 (ID: 140109215119040) will sleep for 3 seconds after creating Thread 3
+Thread 3 Created.
+Thread 3 (ID: 140109206726336) will sleep for 4 seconds after creating Thread 4
+Thread 4 Created.
+Thread 4 (ID: 140109198333632) will sleep for 3 seconds after creating Thread 5
+Thread 5 Created.
+Thread 5 (ID: 140109189940928) will sleep for 7 seconds after creating Thread 6
+Thread 6 Created.
+Thread 6 (ID: 140109181548224) will sleep for 5 seconds after creating Thread 7
+Thread 7 Created.
+Thread 7 (ID: 140109173155520) will sleep for 1 seconds after creating Thread 8
+Thread 8 Created.
+Thread 8 (ID: 140109164762816) will sleep for 7 seconds after creating Thread 9
+Thread 9 Created.
+Thread 9 (ID: 140109156370112) will sleep for 7 seconds after creating Thread 10
+Thread 10 Created.
+Thread 10 (ID: 140109147977408) will sleep for 8 seconds after creating Thread 11
+Thread 11 Created.
+Thread 11 (ID: 140109139584704) will sleep for 3 seconds after creating Thread 12
+Thread 12 Created.
+Thread 12 (ID: 140109131192000) will sleep for 1 seconds after creating Thread 13
+Thread 13 Created.
+Thread 13 (ID: 140109122799296) [no child created], will sleep for 8 seconds
+Thread 7 (ID: 140109173155520) exiting.
+Thread 12 (ID: 140109131192000) exiting.
+Thread 2 (ID: 140109215119040) exiting.
+Thread 4 (ID: 140109198333632) exiting.
+Thread 11 (ID: 140109139584704) exiting.
+Thread 3 (ID: 140109206726336) exiting.
+Thread 6 (ID: 140109181548224) exiting.
+Thread 1 (ID: 140109223511744) exiting.
+Thread 5 (ID: 140109189940928) exiting.
+Thread 8 (ID: 140109164762816) exiting.
+Thread 9 (ID: 140109156370112) exiting.
+Thread 0 (ID: 140109231904448) exiting.
+Thread 10 (ID: 140109147977408) exiting.
+All Threads Have Exited.
